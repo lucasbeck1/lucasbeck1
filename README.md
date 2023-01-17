@@ -4,7 +4,7 @@
 
 - 🇦🇷 Argentina
 
-- 📫 Cómo contactarme: **lucasbeck1@gmail.com**
+- 📫 Cómo contactarme: **lucasbeckford1@gmail.com**
 
 <h3 align="left">Tecnologías:</h3>
 <p align="left"> 
